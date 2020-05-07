@@ -4,8 +4,8 @@
     <string name="opcion3">Manipulando elementos por codigo</string>
     <string name="opcion4">Recycler View</string>
     <string name="Salir">Salir</string>
-    <string name="tituloAplicacion">Mi primera app integrada con Github</string>
-    <string name="app_name">Mi Super Gran Aplicacion con GitHub</string>
+    <string name="tituloAplicacion">Mi Primera App Integrada con Github</string>
+    <string name="app_name">Mi Super Gran Aplicacion Con GitHub</string>
     <string name="action_settings">Configuración</string>
     <string name="opcion5">Mi Spinner</string>
     <string name="dialogo">Mi dialogo</string>
